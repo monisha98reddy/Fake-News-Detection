@@ -1,6 +1,6 @@
 # Fake-News-Detection
 
-<img width="892" alt="Screenshot 2021-09-28 at 2 14 32 PM" src="https://user-images.githubusercontent.com/63378154/135054925-5a82e873-08ed-47ad-85fe-c29d10a55b13.png">
+<img width="1000" alt="Screenshot 2021-09-28 at 2 14 32 PM" src="https://user-images.githubusercontent.com/63378154/135054925-5a82e873-08ed-47ad-85fe-c29d10a55b13.png">
 
 
 # PROBLEM STATEMENT
